@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Snake animation] (https://github.com/Gabriel-Mesq)
+![Snake animation](https://github.com/Gabriel-Mesq)
 
 <!--
 **Gabriel-Mesq/Gabriel-Mesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
