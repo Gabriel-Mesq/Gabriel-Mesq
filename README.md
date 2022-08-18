@@ -2,9 +2,8 @@
 
 I am a software engineering student who is always seeking new challenges. Recently, I decided to answer at least one LeetCode question every day! Currently, I'm on a two days streak (w/ 2 total active days). 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari)
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari)" />
 </p>
 <!--
 **Gabriel-Mesq/Gabriel-Mesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
