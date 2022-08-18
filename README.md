@@ -4,7 +4,6 @@
  
  ![LeetCode Stats](https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200)
 
-Coding friends: @AnenkyKim
 <!--
 **Gabriel-Mesq/Gabriel-Mesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
