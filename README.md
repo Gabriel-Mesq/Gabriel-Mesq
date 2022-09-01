@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### I am a software engineering student who is always seeking new challenges. Recently, I decided to solve at least one LeetCode question every day! Currently, I'm on a ten days streak (w/ 10 total active days).  
- 
+### I am a software engineering student who is always seeking new challenges. Recently, I decided to solve at least one LeetCode question every day!
  ![LeetCode Stats](https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200)
 
 <!--
