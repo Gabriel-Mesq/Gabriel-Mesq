@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
- Recently, I decided to solve at least one LeetCode question every day!
+ Extras ⚡:
 </p>
 
 <p align="center">
