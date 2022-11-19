@@ -3,20 +3,16 @@
 ### I'm Gabriel, a software engineering student who is always seeking new challenges. 
 
 <br/>
-<br/>
 
 ### Technologies 📡:
-
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,java,html" />
 </p>
 
 <br/>
-<br/>
 
 ### Extras ⚡:
-
 
 <p align="center">
  <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
