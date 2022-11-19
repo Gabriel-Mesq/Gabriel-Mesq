@@ -1,7 +1,27 @@
 ## Hi there 👋
 
-### I am a software engineering student who is always seeking new challenges. Recently, I decided to solve at least one LeetCode question every day!
- ![LeetCode Stats](https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200)
+### I'm Gabriel, a software engineering student who is always seeking new challenges. 
+
+<br/>
+
+<p align="center">
+ Technologies 📡:
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,java,html" />
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+ Recently, I decided to solve at least one LeetCode question every day!
+</p>
+
+<p align="center">
+ <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
+</p>
 
 <!--
 **Gabriel-Mesq/Gabriel-Mesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
