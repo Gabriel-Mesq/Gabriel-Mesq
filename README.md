@@ -3,6 +3,7 @@
 ### I'm Gabriel, a software engineering student who is always seeking new challenges. 
 
 <br/>
+<br/>
 
 <p align="center">
  Technologies 📡:
