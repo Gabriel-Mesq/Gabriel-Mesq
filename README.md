@@ -5,9 +5,8 @@
 <br/>
 <br/>
 
-<p align="center">
- Technologies 📡:
-</p>
+### Technologies 📡:
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,java,html" />
@@ -16,9 +15,8 @@
 <br/>
 <br/>
 
-<p align="center">
- Extras ⚡:
-</p>
+### Extras ⚡:
+
 
 <p align="center">
  <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
