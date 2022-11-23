@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,java" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html, css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 <br/>
