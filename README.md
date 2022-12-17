@@ -2,7 +2,7 @@
 
 ### I'm Gabriel, a software engineering student who is always seeking new challenges. 
 
-### And mostly important, I now have a web portfolio, please consider checking it <a href="gabriel-mesq.github.io/webPortfolio/">here<a>
+### And mostly important, I now have a web portfolio, please consider checking it <a href="https://gabriel-mesq.github.io/webPortfolio/" target="_blank">here<a>
 <br/>
 
 ### Technologies 📡:
