@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm Gabriel, a software engineering student who is always seeking new challenges. 
-### And most importantly, I now have a web portfolio, which you can check out <a href="https://gabriel-mesq.github.io/webPortfolio/" target="_blank">here<a/>
+### And most importantly, I now have a web portfolio, which you can check out <a href="https://gabriel-mesq.github.io/webPortfolio/" target="_blank">here</a>
 <br/>
 
 ### Technologies 📡:
