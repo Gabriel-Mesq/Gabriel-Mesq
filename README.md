@@ -21,5 +21,8 @@
 ### Extras ⚡:
 
 <p align="center">
- <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
+  <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
+  <br/><br/><br/><br/>
+  The weirdo who colaborates on some of my projects: <a href="https://github.com/ludwig2k">Ludwig 🐒</a> 
 </p>
+
