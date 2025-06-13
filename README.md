@@ -13,8 +13,8 @@
   - Built a comprehensive ecosystem for management reports and dashboards.
   - Managed a team of 3 developers, fostering collaboration and innovation.
 - At LG Lugar de Gente:
--   Contributed to Brazil's largest HR tech solution at LG Lugar de Gente as a Full-Stack .NET Developer.
--   Etc
+  -   Contributed to Brazil's largest HR tech solution at LG Lugar de Gente as a Full-Stack .NET Developer.
+
 
 ### Technologies 📡:
 
