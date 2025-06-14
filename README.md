@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### I'm **Gabriel**, a passionate Software Engineer always looking for new challenges and opportunities to grow.
-<br/>
 
 ### My journey so far 🛣️:
 - At SEAD (Goiás State Gov):
