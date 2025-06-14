@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-### I'm Gabriel, a Software Engineer who is always seeking new challenges.
-### Besides coding experience, since the begining of 2022 I'm also leading a small team, working to improve and automatize workflows within State of Goiás - Brazil, notably a self-service solution for employees to present and validate medical exemption certificates.
-### And most importantly, I now have a web portfolio, which you can check out <a href="https://gabriel-mesq.github.io/webPortfolio/" target="_blank">here</a>
-
+### I'm **Gabriel**, a passionate Software Engineer always looking for new challenges and opportunities to grow.
 <br/>
 
-### My journey so far 🛣️
+### My journey so far 🛣️:
 - At SEAD (Goiás State Gov):
   - Spearhead the development of an AI-powered multi-agent system to optimize project prioritization and resource allocation.
   - Led the development and deployment of a self-service platform for medical certificates and a service order management system.
@@ -14,6 +11,7 @@
   - Managed a team of 3 developers, fostering collaboration and innovation.
 - At LG Lugar de Gente:
   -   Contributed to Brazil's largest HR tech solution at LG Lugar de Gente as a Full-Stack .NET Developer.
+<br/>
 
 ### Technologies 📡:
 
