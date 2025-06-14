@@ -15,7 +15,6 @@
 - At LG Lugar de Gente:
   -   Contributed to Brazil's largest HR tech solution at LG Lugar de Gente as a Full-Stack .NET Developer.
 
-
 ### Technologies 📡:
 
 <p align="center">
