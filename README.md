@@ -18,7 +18,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,java" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,git,mysql,mongodb" />
   </a>
   <br/>
 (…and always adding more!)
