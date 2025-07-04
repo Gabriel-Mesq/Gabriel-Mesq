@@ -30,8 +30,11 @@
 
 ### Extras ⚡:
 
+
 <p align="center">
+  <br/><br/><br/><br/>
   <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
   <br/><br/><br/><br/>
 </p>
 
+  [![Subscribe to my Substack](https://img.shields.io/badge/Substack-Read%20My%20Posts-orange?logo=substack&style=for-the-badge)](https://substack.com/@devgabrielmesquita)
