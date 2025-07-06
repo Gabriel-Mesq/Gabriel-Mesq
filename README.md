@@ -10,7 +10,7 @@
   - Managed a team of 3 developers, fostering collaboration and innovation.
     
 - At LG Lugar de Gente:
-  -   Contributed to Brazil's largest HR tech solution at LG Lugar de Gente as a Full-Stack .NET Developer.
+  -   Contributed to Brazil's largest HR tech solution as a Full-Stack .NET Developer.
 <br/>
 
 ### Technologies 📡:
