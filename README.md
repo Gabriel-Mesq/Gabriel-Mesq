@@ -30,7 +30,6 @@
 
 ### Extras ⚡:
 
-
 <p align="center">
   <br/><br/><br/><br/>
   <img src="https://leetcard.jacoblin.cool/Gabriel-Mesq?theme=nord&font=Manjari?width=500&height=200" />
