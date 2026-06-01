@@ -8,7 +8,7 @@ I design scalable, production-grade architectures for government and enterprise 
 ### What I do 🏗️
 
 **At Global TI+RH** *(current)*
-- Defined reference architectures for AI solutions on GCP across state government agencies (Health, Economy, and General Government), designing SOA/API-first and event-driven systems that integrate LLMs, RAG pipelines, and multi-agent frameworks into critical public services.
+- Defined reference architectures for AI solutions on GCP across state government agencies, designing SOA/API-first and event-driven systems that integrate LLMs, RAG pipelines, and multi-agent frameworks into critical public services.
 - Provided technical mentorship and architectural governance across cross-functional teams, ensuring alignment with enterprise architecture standards and successful solution delivery.
 
 **At Solver** *(current)*
