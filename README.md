@@ -8,9 +8,8 @@ I design scalable, production-grade architectures for government and enterprise 
 ### What I do 🏗️
 
 **At Global TI+RH** *(current)*
-- Defining reference architectures for AI solutions in GCP for state government agencies (Health, Economy, General Government).
-- Designing SOA/API-first, event-driven systems integrating LLMs, RAG pipelines, and multi-agent frameworks into critical public services.
-- Technical mentorship and architectural governance across cross-functional teams.
+- Defined reference architectures for AI solutions on GCP across state government agencies (Health, Economy, and General Government), designing SOA/API-first and event-driven systems that integrate LLMs, RAG pipelines, and multi-agent frameworks into critical public services.
+- Provided technical mentorship and architectural governance across cross-functional teams, ensuring alignment with enterprise architecture standards and successful solution delivery.
 
 **At Solver** *(current)*
 - Architectural lead and director for SaaS platforms serving multiple clients, including PETSYS (veterinary lab management) and GEPAT (public asset management).
@@ -18,9 +17,7 @@ I design scalable, production-grade architectures for government and enterprise 
 
 **At SEAD — Goiás State Administration** *(3 yrs 7 mo)*
 - Led architecture and development of high-impact government systems: self-service medical certificate platform, service order management, and an AI multi-agent system for project portfolio prioritization.
-- Defined data architecture standards for distributed pipelines — ensuring reliability, scalability, and governance across state-level data assets.
-- Built a comprehensive BI ecosystem for management reporting and strategic decision-making.
-- Managed and mentored a team of developers, driving engineering best practices and continuous improvement.
+- Defined data architecture standards for distributed pipelines and built a comprehensive BI ecosystem, ensuring reliability, scalability, governance, and data-driven strategic decision-making across state-level data assets.
 
 **At LG Lugar de Gente** *(2 yrs)*
 - Full-stack .NET developer on Brazil's largest HR tech platform, applying OOP, SOLID principles, and Design Patterns at scale.
